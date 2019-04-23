@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp_desafio1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/renan1086/bootcamp_desafio1.git",
+  "author": "mult-e <renan.almeida@mult-e.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
